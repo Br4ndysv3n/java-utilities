@@ -1,0 +1,3 @@
+Bundle-Version: 1.0.0
+Bundle-Name: Utilities für Libs und Portlets
+Export-Package: de.br4ndysv3n.utils
